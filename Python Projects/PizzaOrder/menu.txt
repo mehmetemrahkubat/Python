@@ -1,0 +1,4 @@
+Klasik Pizza:50								
+Margarita Pizza:55							
+Turk Pizza:75									
+Sade Pizza:45								
